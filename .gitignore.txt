@@ -1,0 +1,15 @@
+# Игнорируем папки настроек IDEA (во всех подпапках)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Игнорируем папки сборки Maven/Java
+target/
+out/
+bin/
+
+# Игнорируем настройки Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
