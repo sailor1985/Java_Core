@@ -26,6 +26,8 @@ public class Employee {
                 name, hireDate, salary, position);
     }
 
+
+
     // Метод для сравнения даты этого сотрудника с датой другого
     public void compareExperience(Employee other) {
         if (this.hireDate.isBefore(other.hireDate)) {
