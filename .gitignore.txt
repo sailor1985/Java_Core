@@ -3,6 +3,9 @@
 *.iml
 *.iws
 *.ipr
+~$*
+*.gitignore.txt
+
 
 # Игнорируем папки сборки Maven/Java
 target/
